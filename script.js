@@ -25,3 +25,11 @@ for (let i = 0; i < btnsOpenModal.length; i++)
 btnCloseModal.addEventListener('click', closeModal);
 //creating option to close everywhere
 overlay.addEventListener('click', closeModal);
+
+// Keyboard events = close with ESC
+// Global event keydown(when we press our keyboard)
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+    closeModal();
+  }
+});
