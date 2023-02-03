@@ -1,10 +1,10 @@
-# modal-window-study
+# 🪟 Modal window study
 
 Section 7 - Lesson 79 Project #2 Modal Window
 
 ### Links
 
-- Live Site URL: [Click here](https://ciisiq.github.io/studying-guess-my-number-game/)
+- Live Site URL: [Click here](https://ciisiq.github.io/studying-modal-window/)
 
 ### What I learned
 
